@@ -1,0 +1,1 @@
+if (vspeed < maxV) vspeed += gravForce * global.timeScale;
